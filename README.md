@@ -3,3 +3,4 @@
 para ejecutar el sistema, debes poner:
 
 ```npm install react ```
+actualizacion de prueva
